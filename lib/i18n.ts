@@ -178,7 +178,7 @@ export const translations = {
       tag:    "Let's Connect",
       title:  "Open to",
       accent: "Opportunities",
-      p1:     "Available for full-time remote roles, contract work and technical collaborations. Especially interested in international teams in Canada, France, the US and Europe.",
+      p1:     "Available for full-time remote roles, contract work and technical collaborations with teams around the world.",
       p2:     "Response time: under 24 hours.",
       mainCta: "LET'S WORK TOGETHER",
       form: {
@@ -376,7 +376,7 @@ export const translations = {
       tag:    "Contato",
       title:  "Aberto a",
       accent: "Oportunidades",
-      p1:     "Disponível para vagas remotas, trabalho por contrato e colaborações técnicas. Especialmente interessado em times internacionais no Canadá, França, EUA e Europa.",
+      p1:     "Disponível para vagas remotas em tempo integral, trabalho por contrato e colaborações técnicas com equipes ao redor do mundo.",
       p2:     "Tempo de resposta: menos de 24 horas.",
       mainCta: "VAMOS TRABALHAR JUNTOS",
       form: {
@@ -574,7 +574,7 @@ export const translations = {
       tag:    "Contactez-moi",
       title:  "Ouvert aux",
       accent: "Opportunités",
-      p1:     "Disponible pour des postes full remote, des contrats et des collaborations techniques. Particulièrement intéressé par les équipes internationales au Canada, en France, aux États-Unis et en Europe.",
+      p1:     "Disponible pour des postes full remote, des contrats et des collaborations techniques avec des équipes du monde entier.",
       p2:     "Délai de réponse : moins de 24 heures.",
       mainCta: "TRAVAILLONS ENSEMBLE",
       form: {
@@ -772,7 +772,7 @@ export const translations = {
       tag:    "تواصل معي",
       title:  "منفتح على",
       accent: "الفرص",
-      p1:     "متاح للأدوار عن بُعد بدوام كامل، والعمل بالعقود، والتعاونات التقنية. مهتم بشكل خاص بالفرق الدولية في كندا وفرنسا والولايات المتحدة وأوروبا.",
+      p1:     "متاح للأدوار عن بُعد بدوام كامل، والعمل بالعقود، والتعاونات التقنية مع فرق حول العالم.",
       p2:     "وقت الاستجابة: أقل من 24 ساعة.",
       mainCta: "لنعمل معاً",
       form: {
